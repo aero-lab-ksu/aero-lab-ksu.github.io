@@ -1,0 +1,19 @@
+[
+  {
+    "id": "a1",
+    "title": "Best Paper Award – IEEE AeroConf",
+    "description": "Awarded for the paper on deep reinforcement learning applied to UAV navigation.",
+    "year": 2022
+  },
+  {
+    "id": "a2",
+    "title": "NSF Research Grant",
+    "description": "Received for project on real-time sensor fusion in aerospace applications.",
+    "year": 2021
+  },
+  {
+    "id": "a3",
+    "title": "Innovation in Aeronautics Award",
+    "year": 2020
+  }
+]

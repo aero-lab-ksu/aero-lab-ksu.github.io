@@ -1,0 +1,22 @@
+[
+  {
+    "id": "p1",
+    "title": "Autonomous Drone Navigation",
+    "description": "Developing AI-powered navigation systems for drones to operate in complex environments.",
+    "link": "https://github.com/yourlab/autonomous-drone-nav",
+    "image": "/images/projects/drone_nav.jpg"
+  },
+  {
+    "id": "p2",
+    "title": "Wind Tunnel Analysis Tool",
+    "description": "A software suite for real-time analysis of data from wind tunnel experiments.",
+    "link": "",
+    "image": "/images/projects/wind_tunnel.jpg"
+  },
+  {
+    "id": "p3",
+    "title": "Bio-inspired Wing Design",
+    "description": "Studying natural flight mechanisms to design efficient wing structures for small UAVs.",
+    "image": "/images/projects/bio_wing.jpg"
+  }
+]

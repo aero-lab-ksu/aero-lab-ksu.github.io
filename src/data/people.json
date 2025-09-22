@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Jane Doe",
+    "role": "PI",
+    "photoUrl": "/images/jane.jpg",
+    "linkedin": "https://www.linkedin.com/in/janedoe",
+    "website": "https://janedoe.com"
+  },
+  {
+    "id": "2",
+    "name": "John Smith",
+    "role": "Postdoc",
+    "photoUrl": "/images/john.jpg",
+    "linkedin": "",
+    "website": ""
+  }
+]

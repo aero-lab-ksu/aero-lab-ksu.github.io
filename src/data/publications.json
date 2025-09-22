@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pub1",
+    "title": "Real-Time Obstacle Avoidance in UAVs Using Deep Reinforcement Learning",
+    "authors": ["Jane Doe", "John Smith"],
+    "journal": "Journal of Autonomous Systems",
+    "year": 2022,
+    "url": "https://doi.org/10.1234/jas.2022.001",
+    "image": "/images/publications/obstacle_avoidance.jpg"
+  },
+  {
+    "id": "pub2",
+    "title": "Computational Fluid Dynamics for Wing Optimization",
+    "authors": ["Emily Zhang", "Rahul Mehta"],
+    "journal": "Aerospace Engineering Today",
+    "year": 2023,
+    "image": "/images/publications/cfd_optimization.jpg"
+  },
+  {
+    "id": "pub3",
+    "title": "Sensor Fusion Techniques in Modern Avionics",
+    "authors": ["Kevin Lee"],
+    "year": 2021,
+    "url": "",
+    "image": "/images/publications/sensor_fusion.jpg"
+  }
+]

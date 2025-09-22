@@ -1,0 +1,11 @@
+{
+  "lab_name": "KSU Aero Lab",
+  "tagline": "Innovating the Future of Aerospace Systems",
+  "intro": "We focus on research and development in autonomous flight systems, fluid dynamics, and aerospace design. Our mission is to push the boundaries of aerospace technology through interdisciplinary research and education.",
+  "gallery_pics": [
+    "/assets/home/lab1.jpg",
+    "/assets/home/lab2.jpg",
+    "/assets/home/lab3.jpg",
+    "/assets/home/lab4.jpg"
+  ]
+}
